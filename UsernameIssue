@@ -1,0 +1,8 @@
+I wanted to inform you of an issue I recently discovered with my GitHub repository commits. 
+When I committed changes locally, I noticed that, upon pushing to GitHub, the commits were recorded under the username "tchii233" instead of my actual username, "alliah." 
+After reviewing my Git configuration, I found that both my global and local usernames were set correctly as "alliah."
+However, I suspect the issue might be related to a misconfigured GitHub authentication or possibly cached credentials in my Git client.
+This could explain why my commits were attributed to "tchii233" despite my settings being correct.
+Since I’ve already completed my this activity and don’t intend to make any changes to the commit history, I simply wanted to inform you about the discrepancy. 
+I only noticed this issue now (April 27, 2025), and I plan to be more cautious with my Git configurations in the future.
+Thank you for your understanding, and I appreciate your attention to this matter.
